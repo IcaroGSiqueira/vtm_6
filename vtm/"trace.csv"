@@ -1,0 +1,71 @@
+# VTMBMS Block Statistics
+# Sequence size: [416x 240]
+# Block Statistic Type: PredMode; Integer; [0, 4]
+# Block Statistic Type: Depth; Integer; [0, 7]
+# Block Statistic Type: QT_Depth; Integer; [0, 7]
+# Block Statistic Type: BT_Depth; Integer; [0, 7]
+# Block Statistic Type: MT_Depth; Integer; [0, 7]
+# Block Statistic Type: ChromaQPAdj; Integer; [-10, 10]
+# Block Statistic Type: QP; Integer; [0, 51]
+# Block Statistic Type: SplitSeries; Integer; [0, 18446744073709551615]
+# Block Statistic Type: TransQuantBypassFlag; Flag; 
+# Block Statistic Type: TransformSkipFlag_Y; Integer; 
+# Block Statistic Type: BDPCM; Flag; 
+# Block Statistic Type: TileIdx; Integer; 
+# Block Statistic Type: IndependentSliceIdx; Integer; 
+# Block Statistic Type: LFNSTIdx; Integer; [0, 3]
+# Block Statistic Type: JointCbCr; Flag; 
+# Block Statistic Type: CompAlphaCb; Integer; 
+# Block Statistic Type: CompAlphaCr; Integer; 
+# Block Statistic Type: RDPCM_Y; Integer; [0, 3]
+# Block Statistic Type: RDPCM_Cb; Integer; [0, 3]
+# Block Statistic Type: RDPCM_Cr; Integer; [0, 3]
+# Block Statistic Type: Luma_IntraMode; Integer; [0, 70]
+# Block Statistic Type: Chroma_IntraMode; Integer; [0, 70]
+# Block Statistic Type: MultiRefIdx; Integer; [0, 1]
+# Block Statistic Type: MIPFlag; Flag; 
+# Block Statistic Type: ISPMode; Integer; [0, 3]
+# Block Statistic Type: SkipFlag; Flag; 
+# Block Statistic Type: RootCbf; Flag; 
+# Block Statistic Type: SbtIdx; Integer; [0, 5]
+# Block Statistic Type: SbtPos; Integer; [0, 2]
+# Block Statistic Type: Cbf_Y; Flag; 
+# Block Statistic Type: Cbf_Cb; Flag; 
+# Block Statistic Type: Cbf_Cr; Flag; 
+# Block Statistic Type: IMVMode; Integer; [0, 2]
+# Block Statistic Type: InterDir; Integer; [1, 3]
+# Block Statistic Type: MergeFlag; Flag; 
+# Block Statistic Type: RegularMergeFlag; Flag; 
+# Block Statistic Type: MergeIdx; Integer; [0, 7]
+# Block Statistic Type: MergeType; Integer; [0, 2]
+# Block Statistic Type: MVPIdxL0; Integer; [0, 1]
+# Block Statistic Type: MVPIdxL1; Integer; [0, 1]
+# Block Statistic Type: MVL0; Vector; Scale: 4
+# Block Statistic Type: MVL1; Vector; Scale: 4
+# Block Statistic Type: MVDL0; Vector; Scale: 4
+# Block Statistic Type: MVDL1; Vector; Scale: 4
+# Block Statistic Type: MotionBufL0; Vector; Scale: 16
+# Block Statistic Type: MotionBufL1; Vector; Scale: 16
+# Block Statistic Type: RefIdxL0; Integer; [0, 4]
+# Block Statistic Type: RefIdxL1; Integer; [0, 4]
+# Block Statistic Type: AffineFlag; Flag; 
+# Block Statistic Type: AffineMVL0; AffineTFVectors; Scale: 4
+# Block Statistic Type: AffineMVL1; AffineTFVectors; Scale: 4
+# Block Statistic Type: AffineType; Flag; 
+# Block Statistic Type: MMVDSkipFlag; Flag; 
+# Block Statistic Type: MMVDMergeFlag; Flag; 
+# Block Statistic Type: MMVDMergeIdx; Integer; [0, 1]
+# Block Statistic Type: MHIntraFlag; Flag; 
+# Block Statistic Type: SMVDFlag; Flag; 
+# Block Statistic Type: TrianglePartitioning; Line; 
+# Block Statistic Type: TriangleMVL0; VectorPolygon; Scale: 4
+# Block Statistic Type: TriangleMVL1; VectorPolygon; Scale: 4
+# Block Statistic Type: GBIIndex; Integer; [0, 4]
+# Block Statistic Type: Depth_Chroma; Integer; [0, 10]
+# Block Statistic Type: QT_Depth_Chroma; Integer; [0, 10]
+# Block Statistic Type: BT_Depth_Chroma; Integer; [0, 10]
+# Block Statistic Type: MT_Depth_Chroma; Integer; [0, 10]
+# Block Statistic Type: ChromaQPAdj_Chroma; Integer; [-10, 10]
+# Block Statistic Type: QP_Chroma; Integer; [0, 51]
+# Block Statistic Type: SplitSeries_Chroma; Integer; [0, 18446744073709551615]
+# Block Statistic Type: TransQuantBypassFlag_Chroma; Flag; 
